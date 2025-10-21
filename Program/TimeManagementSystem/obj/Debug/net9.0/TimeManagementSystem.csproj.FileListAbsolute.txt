@@ -1,0 +1,15 @@
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\bin\Debug\net9.0\TimeManagementSystem.exe
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\bin\Debug\net9.0\TimeManagementSystem.deps.json
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\bin\Debug\net9.0\TimeManagementSystem.runtimeconfig.json
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\bin\Debug\net9.0\TimeManagementSystem.dll
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\bin\Debug\net9.0\TimeManagementSystem.pdb
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\TimeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\TimeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\TimeManagementSystem.AssemblyInfo.cs
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\TimeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\TimeManagementSystem.sourcelink.json
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\TimeManagementSystem.dll
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\refint\TimeManagementSystem.dll
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\TimeManagementSystem.pdb
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\TimeManagementSystem.genruntimeconfig.cache
+C:\Users\usti\Desktop\timemangmt\bsbo-16-23_team3_var5_timemanagement\Program\TimeManagementSystem\obj\Debug\net9.0\ref\TimeManagementSystem.dll
